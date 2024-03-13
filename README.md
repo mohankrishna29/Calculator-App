@@ -1,2 +1,2 @@
 # Calculator-App
- A simple Calculator Application in Browser
+I developed a user-friendly calculator application designed for web browsers using HTML, CSS, and Vanilla JavaScript. This application supports all basic arithmetic operations, allowing users to perform addition, subtraction, multiplication, and division effortlessly. Additionally, I implemented local storage techniques to enhance user experience by enabling the retrieval of previous calculation results. 
